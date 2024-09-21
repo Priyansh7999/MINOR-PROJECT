@@ -37,10 +37,10 @@ The project consists of three main components:
    cd MINOR-PROJECT
 
 ## Usage
-1.Prepare your training images by placing them in the training folder.
-2.Run the encode.py script to generate the encodings:
-3.Start the face recognition interface
-4.Use the buttons in the GUI:
-  Take Sample: Click to capture 5 photos of the same individual for encoding.
-  Take Photo: Click to capture a single photo, which will be validated against the stored encodings.
-  Train Data: Click to perform the encoding work on the images in the training folder.
+- Prepare your training images by placing them in the training folder.
+- Run the encode.py script to generate the encodings:
+- Start the face recognition interface
+- Use the buttons in the GUI:
+  - Take Sample: Click to capture 5 photos of the same individual for encoding.
+  - Take Photo: Click to capture a single photo, which will be validated against the stored encodings.
+  - Train Data: Click to perform the encoding work on the images in the training folder.
