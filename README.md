@@ -33,9 +33,8 @@ The project consists of three main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Priyansh7999/MINOR-PROJECT
-   cd MINOR-PROJECT
-
+   git clone https://github.com/Priyansh7999/face-Recognition_Modal_Using_RESNET_CNN
+   cd face-Recognition_Modal_Using_RESNET_CNN
 ## Usage
 - Prepare your training images by placing them in the training folder.
 - Run the encode.py script to generate the encodings:
